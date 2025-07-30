@@ -4,7 +4,7 @@ import re
 st.set_page_config(page_title="Botones", page_icon="🎛️")
 
 st.markdown('''
-            # Formulario usuario
+            # Formulario de usuario
             '''
             )
     
